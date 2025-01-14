@@ -17,6 +17,8 @@ A lightweight, Markdown-based CMS for your web app. No databases, no hassle—ju
 
 ## Installation
 
+--not avaliable--
+
 ```bash
 npm install ared-cms
 ```
